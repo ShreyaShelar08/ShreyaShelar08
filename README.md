@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-> I'm a final-year BE student in **Artificial Intelligence & Data Science** at **LGNSCOE, Nashik** with a strong interest in Machine Learning and software development. I am currently focused on breaking into AI Engineering.
+> I'm a final-year BE student in **Artificial Intelligence & Data Science** at **LGNSCOE, Nashik** with a strong interest in Machine Learning and software development. I am currently focused on breaking into AI Engineering. I am looking for opportunities where I can learn, grow, and contribute to innovative projects.
 
 <br/>
 
@@ -76,8 +76,10 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
+# 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=ShreyaShelar08&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShreyaShelar08&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
 
 <br/>
 
