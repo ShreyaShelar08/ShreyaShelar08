@@ -80,6 +80,16 @@
 ![](https://streak-stats.demolab.com/?user=ShreyaShelar08&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShreyaShelar08&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
+🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyaShelar08/ShreyaShelar08/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyaShelar08/ShreyaShelar08/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShreyaShelar08/ShreyaShelar08/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
 <br/>
 
