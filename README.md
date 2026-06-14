@@ -21,6 +21,7 @@
 - 🤝 &nbsp;Open to collaborate on **AI/ML & full-stack web projects**
 - 📂 &nbsp;All projects → **[github.com/ShreyaShelar08](https://github.com/ShreyaShelar08)**
 - 📫 &nbsp;Reach me at **shreyashelar19@gmail.com**
+- 📄 &nbsp;Portfolio → **[shreyashelar.tech](https://shreyashelar.tech/)**
 
 ---
 
